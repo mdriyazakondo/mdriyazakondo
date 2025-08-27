@@ -1,4 +1,4 @@
-## ✔✔✔✔✔✔✔✔ ®® MD RIYAZ AKONDO  ®® ✔✔✔✔✔✔✔✔
+##  MD RIYAZ AKONDO 
 
 👨‍💻 Frontend Developer | 🌐 MERN Stack Enthusiast | 🚀 Passionate about Creating Innovative Solutions
 
