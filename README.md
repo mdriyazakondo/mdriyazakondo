@@ -1,6 +1,6 @@
 <!-- ========================= HERO SECTION ========================= -->
 <p align="center">
-  <img src="https://ik.imagekit.io/szqjng5ej/Md%20Riayz%20Akondo/Simple%20Work%20LinkedIn%20Banner.png?updatedAt=1756290315038" alt="Banner Image" width="1000"/>
+  <img src="https://ik.imagekit.io/2o23yla4n/Screenshot%202025-11-10%20211512.png?updatedAt=1762787742604" alt="Banner Image" width="1000"/>
 </p>
 
 ---
