@@ -1,9 +1,29 @@
-<!-- ========================= HERO SECTION ========================= -->
 <p align="center">
-  <img src="https://ik.imagekit.io/2o23yla4n/Screenshot%202025-11-10%20211512.png?updatedAt=1762787742604" alt="Banner Image" width="1000"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Assalamu+Alaikum+👋;I'm+MD+RIYAZ+AKONDO" alt="Typing SVG">
 </p>
 
----
+
+<p align="center" style="background-color: #000000;">
+  <a href="https://github.com/mdriyazakondo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mdriyazakondo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://protfolio-ruby-rho.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=mdriyazakondo265@gmail.com&tf=cm" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
 
 <!-- ========================= ABOUT ME ========================= -->
 ## 👨‍💻 About Me
@@ -105,17 +125,17 @@ I enjoy creating **responsive, interactive, and scalable web applications** usin
   <img src="https://github-profile-trophy.vercel.app/?username=mdriyazakondo&theme=radical&no-frame=true&margin-w=15&row=1"/>
 </p>
 
----
 
-<!-- ========================= CONTACT / CONNECT ========================= -->
-## 📫 Connect with Me
-<p align="center">
-  <a href="mailto:riyazakondo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mdriyazakondo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/mdriyazakondo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://mdriyazakondo.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+
+<p align="center" style="background-color: #000000; padding: 10px; border-radius: 5px;">
+  <img src="https://komarev.com/ghpvc/?username=mdriyazakondo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <a href="https://github.com/mdriyazakondo?tab=followers">
+    <img src="https://img.shields.io/github/followers/mdriyazakondo?label=Followers&style=social&cacheSeconds=60" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/mdriyazakondo/mdriyazakondo">
+    <img src="https://img.shields.io/github/stars/mdriyazakondo?style=social&cacheSeconds=60" alt="GitHub Stars"/>
+  </a>
 </p>
 
----
 
 ⭐️ From [MD Riyaz Akondo](https://github.com/mdriyazakondo)
