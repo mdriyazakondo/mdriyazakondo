@@ -99,25 +99,12 @@ I enjoy creating **responsive, interactive, and scalable web applications** usin
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mdriyazakondo&theme=tokyonight&hide_border=true&border_radius=15" width="80%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdriyazakondo&theme=react-dark&area=true&hide_border=true&custom_title=My%20GitHub%20Activity" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=mdriyazakondo&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
 </p>
 
----
 
-<!-- ========================= CONTRIBUTION GRAPH ========================= -->
-## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdriyazakondo&theme=react-dark&area=true&hide_border=true&custom_title=My%20GitHub%20Activity" width="90%"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdriyazakondo&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/mdriyazakondo?label=Followers&style=social" alt="Followers"/>
-</p>
-
----
 
 <!-- ========================= ACHIEVEMENTS & TROPHIES ========================= -->
 ## 🏆 Achievements & Trophies
