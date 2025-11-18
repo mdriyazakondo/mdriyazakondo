@@ -3,10 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Assalamu+Alaikum+👋;I'm+MD+RIYAZ+AKONDO" alt="Typing SVG">
 </p>
 
-<p align="center">
-  <img src="https://ik.imagekit.io/2o23yla4n/1758053899583.jpeg" width="1550" style="border-radius: 50%;" />
-</p>
-
 <p align="center" style="background-color: #000000;">
   <a href="https://github.com/mdriyazakondo" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -27,6 +23,12 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://ik.imagekit.io/2o23yla4n/1758053899583.jpeg" width="1550" style="border-radius: 50%;" />
+</p>
+
+
 
 
 <!-- ========================= ABOUT ME ========================= -->
