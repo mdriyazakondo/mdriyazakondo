@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/mdriyazakondo/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="#">
+  <a href="https://dev.to/md_riyaz_akondo_30443d3f9">
     <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white"/>
   </a>
   <a href="#">
