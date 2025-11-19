@@ -36,7 +36,7 @@
 <!-- ===================================================== -->
 <!-- Hero Image -->
 <p align="center">
-  <img src="https://ik.imagekit.io/2o23yla4n/1758053899583.jpeg" width="100%" style="border-radius: 12px;" />
+  <img src="https://ik.imagekit.io/szqjng5ej/Screenshot%202025-11-19%20173745.png" width="100%" height="400px" style="border-radius: 12px;" />
 </p>
 
 ---
