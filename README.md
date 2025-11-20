@@ -132,7 +132,7 @@ A passionate **Frontend Developer** & **MERN Stack Developer**, focused on creat
 
 ---
 
-# 🔗 Connect With Me
+# 🔗 Connect With Me Social 
 <p align="center">
   <a href="https://github.com/mdriyazakondo"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
   <a href="https://www.linkedin.com/in/mdriyazakondo/"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
